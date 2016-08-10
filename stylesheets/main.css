@@ -179,11 +179,11 @@ PAGE: CONTACT
 }
 
 .contact-info li.linkedin a {
-  background-image: url('../img/linkedin.png'); 
+  background-image: url('../img/img/linkedin.png'); 
 }
 
 .contact-info li.resume a {
-  background-image: url('../img/resume.png'); 
+  background-image: url('../img/img/resume.png'); 
 }
 
 /*************************** 
